@@ -1,0 +1,3 @@
+[workspace]
+members = ["kernel-core", "kernel-api"]
+resolver = "2"
